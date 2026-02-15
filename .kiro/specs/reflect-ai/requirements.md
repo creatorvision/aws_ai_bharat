@@ -1,14 +1,14 @@
-# Requirements Document: Digital Sanctuary
+# Requirements Document: ReflectAI
 
 ## Introduction
 
-The Digital Sanctuary is a personalized ecosystem designed for software professionals that combines an AI companion ("The Friend") with a curated social hub ("The Haven"). The platform aims to reduce burnout, combat loneliness (especially for remote workers), enable personal growth, and normalize mental health support in the tech community. It provides intelligent, empathetic companionship through active listening, personality understanding, and daily mental health check-ins, while also facilitating social discovery through curated dev-friendly spaces and contextually appropriate event suggestions.
+ReflectAI is a personalized ecosystem designed for software professionals that combines an AI companion ("The Friend") with a curated social hub ("The Haven"). The platform aims to reduce burnout, combat loneliness (especially for remote workers), enable personal growth, and normalize mental health support in the tech community. It provides intelligent, empathetic companionship through active listening, personality understanding, and daily mental health check-ins, while also facilitating social discovery through curated dev-friendly spaces and contextually appropriate event suggestions.
 
 ## Glossary
 
 - **The_Friend**: The AI companion component that provides active listening, personality-based interactions, and mental health support
 - **The_Haven**: The social discovery and curation component that recommends spaces, events, and community activities
-- **User**: A software professional using the Digital Sanctuary platform
+- **User**: A software professional using the ReflectAI platform
 - **Check_In**: A daily mental health assessment interaction between The_Friend and the User
 - **Engagement_Pattern**: Behavioral data derived from how and when the User interacts with the platform
 - **Energy_Level**: A metric representing the User's current mental and physical capacity for social interaction
